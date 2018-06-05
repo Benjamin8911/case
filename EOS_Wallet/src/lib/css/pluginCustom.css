@@ -1,0 +1,56 @@
+/*swiper*/
+.swiper-pagination-bullets {
+	bottom: -.06rem !important;
+}
+.swiper-pagination-bullet {
+	width: .12rem;
+	height: .12rem; 
+	background: rgba(41,220,84,.3);
+    opacity: 1;
+}
+.wallet-bullet-active {
+	width: .36rem;
+	height: .12rem; 
+	background: #36DE5F;
+	border-radius: .06rem;
+    opacity: 1;
+}
+/*swiper end*/
+
+/*mt-range*/
+.mt-range-content {
+	height: .3rem;
+	margin: 0;
+}
+.mt-range-runway {
+	right: -.2rem;
+	border-radius: 5px;
+	border-top-color: #E2EAEE;
+}
+.mt-range-progress {
+	border-radius: 5px;
+	background-color: #29DC54;
+}
+.mt-range-thumb {
+	top: -.15rem;
+	height: .6rem;
+	width: .6rem;
+	background-color: #29DC54;
+    transform: translateX(-40%);
+    -webkit-transform: translateX(-40%); /* Safari 和 Chrome */
+}
+.mt-range-thumb:after {
+	content: ' ';
+	position: absolute;
+	top: -.25rem;
+	left: -.25rem;
+	display: block;
+	width: .8rem;
+	height: .8rem;
+}
+/*mt-range end*/	
+/*Toast start*/
+.toast-class {
+	z-index: 9999 !important;
+}
+/*Toast end*/

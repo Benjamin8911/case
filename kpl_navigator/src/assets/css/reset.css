@@ -1,0 +1,189 @@
+@charset "UTF-8";
+/*------------reset_style------------*/
+[v-cloak] {
+  display: none;
+}
+
+* {
+  font-family: PingFangSC, "微软雅黑", Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+html,
+body,
+ul,
+li,
+ol,
+dl,
+dd,
+dt,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+fieldset,
+legend,
+img,
+hr {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+  height: 100%;
+}
+
+fieldset,
+img {
+  border: 0;
+}
+
+img {
+  display: inline-block;
+}
+
+address,
+caption,
+cite,
+code,
+dfn,
+th,
+var {
+  font-style: normal;
+  font-weight: normal;
+}
+
+b,
+strong,
+span,
+i {
+  display: inline-block;
+  font-weight: normal;
+  font-style: normal;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+input,
+label,
+select,
+option,
+textarea,
+button {
+  font-family: "微软雅黑", "黑体", Arial, Helvetica, sans-serif;
+}
+
+label {
+  display: inline-block;
+  font-size: 12px;
+}
+
+input {
+  padding-top: 0;
+  padding-bottom: 0;
+  outline: none;
+}
+
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+select,
+input,
+textarea {
+  font-size: 12px;
+  margin: 0;
+}
+
+input:disabled {
+  background-color: transparent;
+}
+
+input[type="text"],
+input[type="password"],
+textarea {
+  outline-style: none;
+}
+
+input[type="button"] {
+  cursor: pointer;
+}
+
+button {
+  outline: none;
+  cursor: pointer;
+}
+
+textarea {
+  resize: none;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  visibility: hidden;
+  clear: both;
+}
+
+.clearfix {
+  zoom: 1;
+}
+
+.clearit {
+  clear: both;
+  height: 0;
+  font-size: 0;
+  overflow: hidden;
+}
+
+.fl {
+  float: left;
+  _display: inline;
+}
+
+.fr {
+  float: right;
+  _display: inline;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+.disappear {
+  display: none;
+}
+
+.hidden {
+  visibility: hidden;
+}
