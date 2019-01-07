@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/home/main",
+    "pages/index/main",
+    "pages/primary/main",
+    "pages/middle/main",
+    "pages/senior/main",
+    "pages/authorization/main",
+    "pages/result/main",
+    "pages/match/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#001e3b",
+    "navigationBarTitleText": "出国留学测评",
+    "navigationBarTextStyle": "#ffffff"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/helper/main",
+    "pages/authorization/main",
+    "pages/counter/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#676ff4",
+    "navigationBarTitleText": "DIY留学申请",
+    "navigationBarTextStyle": "white"
+  }
+}

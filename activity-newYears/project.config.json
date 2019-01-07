@@ -1,0 +1,49 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"miniprogramRoot": "dist/",
+	"compileType": "miniprogram",
+	"appid": "wx70a4aa6a77a6f729",
+	"projectname": "activity-newYears",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"id": 0,
+					"name": "高坛发起",
+					"pathName": "pages/start/main",
+					"query": "id= 5be39c57ff5a0b1a8c21be64&source=pc"
+				},
+				{
+					"id": 1,
+					"name": "本松发起",
+					"pathName": "pages/start/main",
+					"query": "id=5be3f2bde1c7cd0ef0533a21"
+				}
+			]
+		}
+	}
+}

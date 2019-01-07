@@ -1,0 +1,21 @@
+{
+  "pages": [
+
+    "pages/start/main",
+    "pages/index/main",
+    "pages/rules/main",
+    "pages/award/main",
+    "pages/rank/main",
+    "pages/school/main",
+    "pages/authorization/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#52ceff",
+    "navigationBarTitleText": "myOffer来了",
+    "navigationBarTextStyle": "white"
+  },
+  "navigateToMiniProgramAppIdList": [
+    "wxbda90a31cdd84003"
+  ]
+}

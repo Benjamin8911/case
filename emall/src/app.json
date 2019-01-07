@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/userinfo/main",
+    "pages/index/main",
+    "pages/sku/main",
+    "pages/buy/main",
+    "pages/pay/main",
+    "pages/order/main",
+    "pages/detail/main",
+    "pages/sign/main",
+    "pages/article/main",
+    "pages/authorization/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "留学DIY-名校申请",
+    "navigationBarTextStyle": "black"
+  },
+  "navigateToMiniProgramAppIdList": [
+    "wx70a4aa6a77a6f729"
+  ]
+}
